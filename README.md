@@ -8,7 +8,7 @@ A simple and elegant blog preview card component built using HTML and CSS. It sh
 
 ## Screenshot
 
-![Screenshot](assets/preview.png) 
+![Screenshot](preview.png) 
 
 ## Technologies Used
 
